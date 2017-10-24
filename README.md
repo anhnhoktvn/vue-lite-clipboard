@@ -2,6 +2,8 @@
 
 > Copy text to clipboard
 
+[npm](https://www.npmjs.com/package/vue-empty-image)
+
 ## Requirements
 
 - vue: ^2.0.0
