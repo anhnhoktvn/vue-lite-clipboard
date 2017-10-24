@@ -1,4 +1,4 @@
-# vue-empty-image
+# vue-lite-clipboard
 
 > Copy text to clipboard
 
