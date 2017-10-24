@@ -2,7 +2,7 @@
 
 > Copy text to clipboard
 
-[npm](https://www.npmjs.com/package/vue-empty-image)
+[npm](https://www.npmjs.com/package/vue-lite-clipboard)
 
 ## Requirements
 
